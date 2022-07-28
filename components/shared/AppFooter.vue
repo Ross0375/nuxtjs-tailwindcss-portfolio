@@ -55,8 +55,8 @@ export default {
             target="__blank"
             class="
               text-gray-400
-              hover:text-indigo-500
-              dark:hover:text-indigo-400
+              hover:text-orange-500
+              dark:hover:text-orange-400
               cursor-pointer
               rounded-lg
               bg-gray-50

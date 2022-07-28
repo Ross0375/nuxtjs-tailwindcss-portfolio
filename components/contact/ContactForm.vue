@@ -174,9 +174,9 @@ export default {
               py-2.5
               text-white
               tracking-wider
-              bg-indigo-500
-              hover:bg-indigo-600
-              focus:ring-1 focus:ring-indigo-900
+              bg-orange-500
+              hover:bg-orange-600
+              focus:ring-1 focus:ring-orange-900
               rounded-lg
               duration-500
             "

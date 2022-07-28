@@ -177,16 +177,16 @@ export default {
       />
 
       <!-- Header right section buttons -->
-      <div
+      <!-- <div
         class="hidden sm:flex justify-between items-center flex-col md:flex-row"
-      >
+      > -->
         <!-- Hire me button -->
-        <div class="font-general-medium hidden md:block">
+        <!-- <div class="font-general-medium hidden md:block">
           <button
             class="
               text-md
-              bg-indigo-500
-              hover:bg-indigo-600
+              bg-orange-500
+              hover:bg-orange-600
               text-white
               shadow-sm
               rounded-md
@@ -198,7 +198,7 @@ export default {
           >
             Hire Me
           </button>
-        </div>
+        </div> -->
 
         <!-- Theme switcher large screen -->
         <button

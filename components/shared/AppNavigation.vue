@@ -92,8 +92,8 @@ export default {
           sm:hidden
           block
           text-left text-md
-          bg-indigo-500
-          hover:bg-indigo-600
+          bg-orange-500
+          hover:bg-orange-600
           text-white
           shadow-sm
           rounded-md
@@ -113,6 +113,6 @@ export default {
 <style>
 #nav .nuxt-link-exact-active,
 #nav .nuxt-link-active {
-  @apply text-indigo-700 dark:text-indigo-400;
+  @apply text-orange-700 dark:text-orange-400;
 }
 </style>

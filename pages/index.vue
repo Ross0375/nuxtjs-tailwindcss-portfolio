@@ -26,9 +26,9 @@ export default {
           rounded-lg
           shadow-lg
           hover:shadow-xl
-          bg-indigo-500
-          hover:bg-indigo-600
-          focus:ring-1 focus:ring-indigo-900
+          bg-orange-500
+          hover:bg-orange-600
+          focus:ring-1 focus:ring-orange-900
           text-white text-lg
           sm:text-xl
           duration-300
